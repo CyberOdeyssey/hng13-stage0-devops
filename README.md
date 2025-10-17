@@ -7,5 +7,6 @@ Project description
 ---
 Nginx Web server deployment on Azure
 
-Your server IP/domain (add this after deployment)
+server IP/domain 
 ---
+4.180.239.179
